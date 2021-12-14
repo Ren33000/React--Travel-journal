@@ -2,3 +2,62 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+h4, a, p {
+    color: #918E9B;
+    padding: 2px 5px;
+}
+
+
+/* Header Styling */
+.headerBar {
+    background-color: #F55A5A;
+    color: white;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headBar--photo {
+    width: 24px;
+    height: 24px;
+    margin-right: 15px;
+}
+
+
+/* Cards Styling */
+.card--container {
+    margin: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.card--image {
+    width: 210px;
+    height: 210px;
+    object-fit: cover;
+    border-radius: 7px;
+    margin-right: 20px;
+}
+
+.card--details {
+    align-items: stretch;
+    text-overflow: ellipsis;
+
+}
+
+.card--location {
+    display: flex;
+    align-items: center;
+    
+}
+
+.card--cursor {
+    width: 10px;
+    margin-right: 5px;
+}

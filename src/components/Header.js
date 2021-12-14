@@ -2,8 +2,9 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
-            <h1>Header</h1>
+        <div className='headerBar'>
+            <img src="../images/globe.png" className="headBar--photo" />
+            <h2>my travel journal</h2>
         </div>
     );
 };

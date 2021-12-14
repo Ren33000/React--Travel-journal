@@ -7,7 +7,7 @@ export default [
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
         description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://unsplash.com/photos/WLxQvbMyfas",
+        imageUrl: "https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/02/a0002532/img/basic/a0002532_main.jpg?20200928114201&q=80&rw=750&rh=536",
     },
     {
         title: "Kinosaki-Onsen",
@@ -34,7 +34,7 @@ export default [
         startDate: "15 Sept, 2020",
         endDate: "24 Sept, 2020",
         description: "Ishigaki is a city on Japan’s Ishigaki Island and a jumping-off point for beaches and coral reefs. Near the port, the Misakichō district is home to the covered Euglena Mall. The Yaeyama Museum chronicles the history of Ishigaki and the other Yaeyama Islands.",
-        imageUrl: "https://unsplash.com/photos/WLxQvbMyfas",
+        imageUrl: "https://www.japan-guide.com/g18/7201_01.jpg",
     },
     {
         title: "Aomori",
