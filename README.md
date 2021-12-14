@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# WWcode Tokyo, 1h challenge during React study group (project from Scrimba)
+
+<p align="center">
+  <img src="https://github.com/Ren33000/React--Travel-journal/blob/master/Result%20in%201h.png" alt="Result"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ren33000/React--Travel-journal/blob/master/Figma%20file.png" alt="Figma file"/>
+</p>
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
