@@ -1,4 +1,5 @@
-# WWcode Tokyo, 1h challenge during React study group (project from Scrimba)
+<h1 align="center">WWcode Tokyo</h1>
+<h3 align="center">React study group (project from Scrimba done in 1h)</h3>
 
 <p align="center">
   <img src="https://github.com/Ren33000/React--Travel-journal/blob/master/Result%20in%201h.png" alt="Result"/>
